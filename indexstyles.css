@@ -1,0 +1,38 @@
+*{background-color: black;}
+*{
+    color: aliceblue;
+    font-family: 'Helvetica', 'Arial Narrow', Arial, sans-serif;
+}
+ul{text-align:right;
+    
+}
+
+
+h1{position: relative;
+   top: 1%;
+    text-align: center; 
+font-size:100px; }
+
+.I{font-size: 50px;
+text-align: right;
+position: absolute;
+left: 100px;}
+.Impact{font-size: 50px;
+text-align: center;
+
+
+}
+.change{font-size: 50px;
+    position: absolute;
+    top: 310px;
+    right: 100px;
+}
+.impacttillnow{position: absolute;
+left: 550px;
+top: 500px;}
+.Utkarshintro{position: absolute;
+top: 500px;
+left: 20px;}
+.changes{position: absolute;
+    left:1100px;
+    top: 500px;}
